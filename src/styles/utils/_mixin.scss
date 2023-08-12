@@ -1,4 +1,0 @@
-@mixin base-fonts($fontSize, $lineHeight) {
-  font-size: $fontSize;
-  line-height: calc($lineHeight / $fontSize);
-}
